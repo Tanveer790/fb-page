@@ -1,0 +1,30 @@
+.header {
+    height: 90px;
+    background-color: #37528B;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    padding-left: 10px;
+}
+.form-control {
+    width: 520px;
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    background-color: transparent;
+    margin-top: 24px;
+    height: 28px;
+    color: white;
+    box-shadow: #37528B;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
